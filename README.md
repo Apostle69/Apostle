@@ -1,1 +1,2 @@
-# Apostle
+# Hello, I'm Apostle!🥸
+I'm a computer science student with previous experience as an AI engineer, Fullstack Sofwtare Engineer and currently I'm an Application Developer at IBM. I aspire to make creative, scalable software thats both useful and practical.
